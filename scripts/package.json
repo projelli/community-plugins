@@ -1,0 +1,9 @@
+{
+  "name": "projelli-community-catalog-build",
+  "private": true,
+  "type": "module",
+  "description": "Catalog rebuild script vendored from projelli/projelli. Do not edit here.",
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
