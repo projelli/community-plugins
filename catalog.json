@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "id": "mermaid-preview",
+    "name": "Mermaid Preview",
+    "description": "Renders fenced mermaid code blocks from the active document into a live diagram preview in the sidebar.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Projelli Examples",
+      "githubUser": "projelli",
+      "url": "https://projelli.com"
+    },
+    "category": "writing",
+    "tags": [
+      "editor",
+      "diagrams",
+      "mermaid",
+      "preview"
+    ],
+    "installUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/mermaid-preview/tarball.tar.gz",
+    "manifestUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/mermaid-preview/manifest.json",
+    "minProjelliVersion": "2.0.0",
+    "publishedAt": "2026-05-04T01:58:36.934Z",
+    "updatedAt": "2026-05-04T01:58:36.934Z",
+    "checksum": "cf31af57ab121bfec70db03f115ecf89376efa1bb60e5bc671d3de613289e1f5",
+    "screenshots": [
+      "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/mermaid-preview/screenshots/preview.png"
+    ]
+  },
+  {
+    "id": "pomodoro",
+    "name": "Pomodoro",
+    "description": "A 25/5 pomodoro timer in the sidebar. Start, pause, and reset from toolbar buttons or the command palette. State persists across reloads.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Projelli Examples",
+      "githubUser": "projelli",
+      "url": "https://projelli.com"
+    },
+    "category": "productivity",
+    "tags": [
+      "focus",
+      "timer",
+      "productivity"
+    ],
+    "installUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/pomodoro/tarball.tar.gz",
+    "manifestUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/pomodoro/manifest.json",
+    "minProjelliVersion": "2.0.0",
+    "publishedAt": "2026-05-04T01:58:36.946Z",
+    "updatedAt": "2026-05-04T01:58:36.946Z",
+    "checksum": "5595c1c0eaa4aaa0bb47d0ac2dcc7f0e6f5629c6f2f6afc74d70061cedbcc506",
+    "screenshots": [
+      "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/pomodoro/screenshots/preview.png"
+    ]
+  },
+  {
+    "id": "translator",
+    "name": "Translator",
+    "description": "Translate the selected text into a target language using your configured AI provider. Replaces the selection in place.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Projelli Examples",
+      "githubUser": "projelli",
+      "url": "https://projelli.com"
+    },
+    "category": "writing",
+    "tags": [
+      "editor",
+      "ai",
+      "translation",
+      "i18n"
+    ],
+    "installUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/translator/tarball.tar.gz",
+    "manifestUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/translator/manifest.json",
+    "minProjelliVersion": "2.0.0",
+    "publishedAt": "2026-05-04T01:58:36.956Z",
+    "updatedAt": "2026-05-04T01:58:36.956Z",
+    "checksum": "04ba409bd4145f7f370bba57806c7c5edf90c9964bcbca73c1cab689ba87aba3",
+    "screenshots": [
+      "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/translator/screenshots/preview.png"
+    ]
+  },
+  {
+    "id": "word-counter",
+    "name": "Word Counter",
+    "description": "Live word and character count for the active document. Updates a sidebar panel automatically.",
+    "version": "1.0.0",
+    "author": {
+      "name": "Projelli Examples",
+      "githubUser": "projelli",
+      "url": "https://projelli.com"
+    },
+    "category": "writing",
+    "tags": [
+      "editor",
+      "writing",
+      "stats"
+    ],
+    "installUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/word-counter/tarball.tar.gz",
+    "manifestUrl": "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/word-counter/manifest.json",
+    "minProjelliVersion": "2.0.0",
+    "publishedAt": "2026-05-04T01:58:36.966Z",
+    "updatedAt": "2026-05-04T01:58:36.966Z",
+    "checksum": "511f2cecb7e658d12ef2a756445ff77633c9442d504cc24b2f57f28448e7f953",
+    "screenshots": [
+      "https://raw.githubusercontent.com/projelli/community-plugins/main/entries/word-counter/screenshots/preview.png"
+    ]
+  }
+]
